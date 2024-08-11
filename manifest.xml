@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="github"
+  <remote  name="ghub"
            fetch="https://github.com/" />
 
   <remote  name="glab"
@@ -13,15 +13,15 @@
 
   <project path="device/xiaomi/sunny" remote="xiaomi-sunny-dev" name="device_xiaomi_sunny" />
   <project path="vendor/xiaomi/sunny" remote="xiaomi-sunny-dev" name="vendor_xiaomi_sunny" />
-  <project path="kernel/xiaomi/sunny" remote="github" name="Neternels/android_kernel_xiaomi_sunny" revision="staging" />
-  <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-elf" remote="github" name="StatiXOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-elf" revision="12.0.0" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi" remote="github" name="StatiXOS/android_prebuilts_gcc_linux-x86_arm_arm-eabi" revision="12.0.0" />
+  <project path="kernel/xiaomi/sunny" remote="ghub" name="Neternels/android_kernel_xiaomi_sunny" revision="staging" />
+  <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-elf" remote="ghub" name="StatiXOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-elf" revision="12.0.0" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi" remote="ghub" name="StatiXOS/android_prebuilts_gcc_linux-x86_arm_arm-eabi" revision="12.0.0" />
   <project path="device/qcom/common" remote="yaap" name="device_qcom_common" />
   <project path="vendor/qcom/common" remote="glab" name="YAOSP/vendor_qcom_common" revision="fourteen" />
-  <project path="device/qcom/qssi" remote="github" name="AOSPA/android_device_qcom_qssi" revision="uvite" />
+  <project path="device/qcom/qssi" remote="ghub" name="AOSPA/android_device_qcom_qssi" revision="uvite" />
   <project path="vendor/qcom/opensource/core-utils" remote="yaap" name="vendor_qcom_opensource_core-utils" />
-  <project path="packages/apps/KProfiles" remote="github" name="yaap/packages_apps_KProfiles" revision="fourteen" />
-  <project path="packages/apps/DisplayFeatures" remote="github" name="cyberknight777/android_packages_apps_DisplayFeatures" revision="master" />
-  <project path="packages/apps/KProfiles" remote="github" name="yaap/packages_apps_KProfiles" revision="fourteen" />
-  <project path="packages/apps/ViPER4AndroidFX" remote="github" name="xiaomi-begonia-dev/android_packages_apps_ViPER4AndroidFX" revision="fourteen" />
+  <project path="packages/apps/KProfiles" remote="ghub" name="yaap/packages_apps_KProfiles" revision="fourteen" />
+  <project path="packages/apps/DisplayFeatures" remote="ghub" name="cyberknight777/android_packages_apps_DisplayFeatures" revision="master" />
+  <project path="packages/apps/KProfiles" remote="ghup" name="yaap/packages_apps_KProfiles" revision="fourteen" />
+  <project path="packages/apps/ViPER4AndroidFX" remote="ghub" name="xiaomi-begonia-dev/android_packages_apps_ViPER4AndroidFX" revision="fourteen" />
 </manifest>
