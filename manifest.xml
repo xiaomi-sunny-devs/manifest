@@ -8,7 +8,7 @@
            fetch="https://gitlab.com/" />
 
   <remote  name="xiaomi-sunny-devs"
-           fetch="https://github.com/xiaomi-sunny-dev"
+           fetch="https://github.com/xiaomi-sunny-devs"
            revision="refs/heads/14" />
 
   <project path="device/xiaomi/sunny" remote="xiaomi-sunny-devs" name="device_xiaomi_sunny" />
