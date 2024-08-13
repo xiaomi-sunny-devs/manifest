@@ -20,7 +20,7 @@
   <project path="device/qcom/common" remote="yaap" name="device_qcom_common" />
   <project path="vendor/qcom/common" remote="glab" name="YAOSP/vendor_qcom_common" revision="fourteen" />
   <project path="device/qcom/qssi" remote="ghub" name="AOSPA/android_device_qcom_qssi" revision="uvite" />
-  <project path="vendor/qcom/opensource/core-utils" remote="yaap" name="vendor_qcom_opensource_core-utils" />
+  <project path="vendor/qcom/opensource/core-utils" remote="ghub" name="yaap/vendor_qcom_opensource_core-utils" revision="fourteen" />
   <project path="packages/apps/KProfiles" remote="ghub" name="yaap/packages_apps_KProfiles" revision="fourteen" />
   <project path="packages/apps/DisplayFeatures" remote="ghub" name="cyberknight777/android_packages_apps_DisplayFeatures" revision="master" />
   <project path="packages/apps/KProfiles" remote="ghup" name="yaap/packages_apps_KProfiles" revision="fourteen" />
