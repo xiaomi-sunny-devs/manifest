@@ -23,6 +23,5 @@
   <project path="vendor/qcom/opensource/core-utils" remote="ghub" name="yaap/vendor_qcom_opensource_core-utils" revision="fourteen" />
   <project path="packages/apps/KProfiles" remote="ghub" name="yaap/packages_apps_KProfiles" revision="fourteen" />
   <project path="packages/apps/DisplayFeatures" remote="ghub" name="cyberknight777/android_packages_apps_DisplayFeatures" revision="master" />
-  <project path="packages/apps/KProfiles" remote="ghup" name="yaap/packages_apps_KProfiles" revision="fourteen" />
   <project path="packages/apps/ViPER4AndroidFX" remote="ghub" name="xiaomi-begonia-dev/android_packages_apps_ViPER4AndroidFX" revision="fourteen" />
 </manifest>
